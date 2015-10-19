@@ -1,0 +1,24 @@
+Hsin-Mao Wu	
+16936 Bollinger Drive	Pacific Palisades, CA 90272		
+hsinmao@maoshouse.com
+(310) 562-3016
+
+github.com/maoshouse
+linkedin.com/in/hsinmaowu
+maoshouse.com
+== Education ==University of Southern California,					Los Angeles, CA, USAMaster of Science in Computer Science					May 2017
+University of Illinois at Urbana-Champaign				Urbana, IL, USAMaster of Science in Financial Engineering		(GPA: 3.34/4)	December 2013
+University of Illinois at Urbana-Champaign				Urbana IL, USABachelor of Science in Electrical Engineering		(GPA: 3.36/4)	May 2012
+Related Coursework:Analysis of Algorithms		Introduction to Computer Networks		Financial ComputingMachine Learning		Data Structures					Computer Engineering	
+	== Skills ==Programming: C++, C#, Visual Basic, Java, Python, Ruby	Database: SQL	Research: Matlab, R	Tools: Git== Professional Experience ==Eagle Seven Trading							Chicago, IL, USAAssociate Trader							February 2014 – December 2014* Managed positions of trading portfolios in a fast-paced environment to optimize for risk and 
+performance under different market conditions.* Conducted research for trading strategies using R and Bloomberg market data.* Developed a C# utility to estimate profit and loss based on trade price, volume, 
+and an adjustable historical price reference.
+Pictet & Cie (Europe) S.A., Hong Kong Branch				Hong Kong, ChinaDiscretionary Portfolio Management Intern				May 2013 – August 2013* Developed software tools to back-test various figures of value-at-risk.* Determined regression factors for the group’s actively managed portfolio using a 
+large database of historical values. * Explored various different factors in a multivariate regression in order to capture price 
+momentum and portfolio performance indicators.* Implemented Monte-Carlo simulation to forecast day-to-day portfolio performance.
+Rogers Research Group							Urbana, IL, USAUndergraduate Research Assistant					June 2011 – January 2012* Worked extensively in cleanroom facilities to fabricate semiconductor devices 
+for the Electronic Fly-Eye project.* Attained proficiency in laboratory procedures and equipment use.Good Mind Industries Co., Ltd.						Kaohsiung, TaiwanIntern									June 2010 – July 2010* Validated set-top box samples before shipment to clients.* Designed and wrote product related documents.== Projects ==Maoshouse								Chicago, IL, USAParty Tracker								May 2014 – September 2014* Published a Windows Phone 8.1 application written in C# that utilizes geolocation 
+and Bluetooth to allow users to track a group of selected peers.
+Nanex, LLC								Urbana, IL, USAPracticum Project							August 2013 – December 2013* Wrote multi-threaded C++ programs to parse large sets of exchange information.* Filtered and analyzed dataset in R to identify extraneous market events such 
+as over-quoting and exchange movements.CS 446 Machine Learning						Urbana, IL, USAPartly Sunny with a Chance of Hashtags				August 2013 – December 2013* Conducted Twitter text classification and sentiment analysis using Python and Scikit-Learn.ECE 445 Senior Design Project						Urbana, IL, USAImprovement to Wake-on-LAN						August 2011 – December 2011* Won the iteration’s ECE 445 Hall of Fame: Area Award in Networking.* Developed and wrote a software-based Wake-on-LAN solution that monitors and 
+routes network traffic to sleeping computers.
