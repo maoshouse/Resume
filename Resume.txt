@@ -13,6 +13,7 @@ maoshouse.com
 	== Skills ==Programming: C++, C#, Visual Basic, Java, Python, Ruby	Database: SQL	Research: Matlab, R	Tools: Git== Professional Experience ==Eagle Seven Trading							Chicago, IL, USAAssociate Trader							February 2014 – December 2014* Managed positions of trading portfolios in a fast-paced environment to optimize for risk and 
 performance under different market conditions.* Conducted research for trading strategies using R and Bloomberg market data.* Developed a C# utility to estimate profit and loss based on trade price, volume, 
 and an adjustable historical price reference.
+* Optimized bookkeeping by creating VBA forms and scripts that validate user entry with online account references.
 Pictet & Cie (Europe) S.A., Hong Kong Branch				Hong Kong, ChinaDiscretionary Portfolio Management Intern				May 2013 – August 2013* Developed software tools to back-test various figures of value-at-risk.* Determined regression factors for the group’s actively managed portfolio using a 
 large database of historical values. * Explored various different factors in a multivariate regression in order to capture price 
 momentum and portfolio performance indicators.* Implemented Monte-Carlo simulation to forecast day-to-day portfolio performance.
